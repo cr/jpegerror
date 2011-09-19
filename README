@@ -1,0 +1,9 @@
+jpegerror
+by cr at 23bit.net
+
+DESCRIPTION:
+A tool using a simple JPEG compression differential to spot image manipulation. It's usable, but painfully slow and comes without any usability features. Ping me on github if you want me to make it pretty.
+
+EXAMPLE:
+./jpgerror.py sample.jpg
+
